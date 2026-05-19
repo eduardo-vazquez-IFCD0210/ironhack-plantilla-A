@@ -13,4 +13,4 @@
 
 
 ---
-*Este repositorio contiene un ejercicio práctico desarrollado como parte del plan de estudios del bootcamp Desenvolupament d'aplicacions amb tecnologia web en Ironhack Barcelona 2026.*
+*Este repositorio contiene un ejercicio práctico desarrollado como parte del plan de estudios del curso Desenvolupament d'aplicacions amb tecnologia web en Ironhack, Barcelona 2026.*
